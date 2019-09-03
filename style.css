@@ -25,6 +25,7 @@ header::after {
 }
 .col-4,
 .col-8 {
+    
     float: left;
     padding-left: 1.0%;
     padding-right: 1.0%;
@@ -45,10 +46,9 @@ header ul li {
     display: inline;
 }
 header ul {
-    text-align: right;
+    text-align: center;
     margin-top: 50px
 }
-/*Quiz start screen styling*/
 
 .quizStart {
     display: block;
@@ -133,7 +133,7 @@ input[type=radio] {
     margin-right: 10px;
 }
 h2 {
-    text-align: left;
+    text-align: center;
     margin-bottom: 40px;
     color: #ffffff;
     text-transform: uppercase
@@ -190,8 +190,11 @@ form button:hover, form button:focus {
     border-radius: 50%;
     background-color: darkblue;
     margin: auto;
-    padding: 10px;
+    padding: 5px;
     margin-bottom: 20px
+}
+.icon{
+  text-align:center;
 }
 h3 {
     color: rgb(0, 0, 0);
@@ -214,14 +217,14 @@ h3 {
 .restartButton {
     margin-top: 40px
 }
-@media screen and (max-width: 1190px) {
+@media screen and (max-width: 1500px) {
     .questionAnswerForm,
     .quizStart {
         width: 80%;
         margin-bottom: 100px
     }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 780px) {
     .logo {
         width: 120px;
         height: 120px;
