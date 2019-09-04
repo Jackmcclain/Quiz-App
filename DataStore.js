@@ -8,7 +8,7 @@ const STORE=[
       'Mary Poppins',
     ],
     correctAnswer: 'Wizard of Oz',
-    icon:'/images/ozmovie.png' ,
+    icon:'./images/ozmovie.png' ,
     alt:'wizard of Oz'
   },
   {
@@ -20,7 +20,7 @@ const STORE=[
       'The Godfather',
     ],
     correctAnswer: 'The Godfather',
-    icon:'/images/godfather.jpeg',
+    icon:'./images/godfather.jpeg',
     alt:'Godfather'
   },
   {
@@ -32,7 +32,7 @@ const STORE=[
       'Lord of the Rings',
   ],
     correctAnswer: 'Star Wars',
-    icon:'/images/lightsaber.png',
+    icon:'./images/lightsaber.png',
     alt:''
   },
   {
@@ -44,7 +44,7 @@ const STORE=[
       'A League of their own',
     ],
     correctAnswer: 'A League of their own',
-    icon:'/images/baseball.jpg',
+    icon:'./images/baseball.jpg',
     alt:'Baseball'
   },
   {
@@ -56,7 +56,7 @@ const STORE=[
       'Taken',
     ],
     correctAnswer: 'Scarface',
-    icon:'/images/mafiamovie.png',
+    icon:'./images/mafiamovie.png',
     alt:'Scarface'
   },
   {
@@ -68,7 +68,7 @@ const STORE=[
       'Iron Man',
     ],
     correctAnswer: 'Titanic',
-    icon:'/images/titanic.jpeg',
+    icon:'./images/titanic.jpeg',
     alt:''
   },
   {
@@ -80,7 +80,7 @@ const STORE=[
       'Dead Poets Society',
     ],
     correctAnswer: 'Dead Poets Society',
-    icon:'/images/deadpoets.png',
+    icon:'./images/deadpoets.png',
     alt:'DPS'
   },
   {
@@ -92,7 +92,7 @@ const STORE=[
       'Shutter Island',
     ],
     correctAnswer: 'Silence of the Lambs',
-    icon:'/images/silenceofthelambs.jpg',
+    icon:'./images/silenceofthelambs.jpg',
     alt:''
   },
   {
@@ -104,7 +104,7 @@ const STORE=[
       'Apocalypse Now',
     ],
     correctAnswer:'Apocalypse Now',
-    icon:'/images/apocalypseNow.jpg',
+    icon:'./images/apocalypseNow.jpg',
     alt:'ApocalypseNow'
   },
   {
@@ -116,7 +116,7 @@ const STORE=[
       'Law Abiding Citizen',
     ],
     correctAnswer: 'A Few Good Men',
-    icon:'/images/fewgoodmen.png',
+    icon:'./images/fewgoodmen.png',
     alt:'Lawyers'
       }
 ];
