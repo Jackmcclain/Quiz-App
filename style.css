@@ -6,7 +6,7 @@
 body {
     font-family: 'Metrophobic', Times-new-roman;
     background-color: #ffffff;
-    background: url('/images/movietheatre.jpg')no-repeat fixed;
+    background: url('./images/movietheatre.jpg')no-repeat fixed;
     background-size: 100% 100%;
     color: #363946;
 }
